@@ -25,7 +25,15 @@ This project is a CRUD (Create, Read, Update, Delete) application for managing a
 
 - **Database:**
   - MySQL
-
+ 
+    const dbConfig = {
+    host: "your-database-host",
+    user: "your-database-username",
+    password: "your-database-password",
+    database: "your-database-name"
+};
+you should modify it according to your database...
+i hide my password and database name due to privacy issues...
 ## Installation
 
 ### Prerequisites
