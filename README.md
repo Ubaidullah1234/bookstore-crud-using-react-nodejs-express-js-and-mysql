@@ -6,11 +6,11 @@ This project is a CRUD (Create, Read, Update, Delete) application for managing a
 
 ## Features
 
-- Add new books to the inventory
+
 - Update existing book details
 - Delete books from the inventory
 - View a list of all books with their details
-- Responsive design with modern UI/UX
+
 
 ## Technologies Used
 
