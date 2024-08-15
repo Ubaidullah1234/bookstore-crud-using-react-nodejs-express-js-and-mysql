@@ -34,6 +34,7 @@ This project is a CRUD (Create, Read, Update, Delete) application for managing a
 };
 you should modify it according to your database...
 i hide my password and database name due to privacy issues...
+And no need to change anything. Rest of code will be same 
 ## Installation
 
 ### Prerequisites
